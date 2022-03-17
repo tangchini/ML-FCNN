@@ -1,3 +1,3 @@
 # ML-FCNN
 
-Hand carved fully connected neural netweok
+Hand carved fully connected neural network
